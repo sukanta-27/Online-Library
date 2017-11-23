@@ -1,0 +1,38 @@
+table {
+	border-collapse: separate;
+	font-size: 10px;
+	line-height: 15pxpx;
+	margin: 30px auto;
+	text-align: center;
+	width: 900px;
+}	
+
+TH{
+	background: linear-gradient(rgba(210,118,17, 0.7) 0%, rgba(245, 186, 136, 0) 95%);
+    border-right: 2px solid rgba(0,0,0,0.4);
+	border-left: 2px solid rgba(0,0,0,0.4);
+	border-bottom: 2px solid rgba(0,0,0,0.4);
+    border-top: 2px solid rgba(0,0,0,0.4);
+    border-radius: 10px;    
+    padding: 10px 15px;
+	position: relative;
+	text-shadow: 0 1px 0 #000;
+	font-family:Lucida Calligraphy;
+	font-weight:lighter;
+	font-size:10pt;
+}
+
+TD{
+    background: mistyrose;
+    opacity: 0.7;
+    border-right: 1px solid rgba(0,0,0,0.4);
+	border-left: 1px solid rgba(0,0,0,0.4);
+	border-bottom: 1px solid rgba(0,0,0,0.4);
+    border-radius: 14px;
+	padding: 10px 15px;
+	position: relative;
+	transition: all 300ms;
+	font-family:Lucida Calligraphy;
+	font-weight:lighter;
+	font-size:10.5pt;
+}
