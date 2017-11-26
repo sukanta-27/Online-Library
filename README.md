@@ -1,12 +1,12 @@
 # Online-Library
 This is an Online Library project I developed using Technologies listed below :
 
-Front-end : HTML, CSS, Javascript
-Back-end  : Java, JSP, MySQL database using XAMPP
+**Front-end :** HTML, CSS, Javascript
+**Back-end  :** Java, JSP, MySQL database using XAMPP
 
 A lot of modifications are still needed in this repository.
 
-Screenshots:
+**Screenshots:**
 
 ![screenshot 15](https://user-images.githubusercontent.com/10681755/33185445-ab2c075a-d0a8-11e7-8058-7d707d1c55f2.png)
 
