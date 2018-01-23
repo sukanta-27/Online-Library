@@ -54,9 +54,7 @@
                     status = rs.getString(4);
                     session.setAttribute("username",username);
                     session.setAttribute("status", status);
-                    response.sendRedirect("Home.jsp");
-                    //request.getRequestDispatcher("Profile.jsp").forward(request, response);
-                   
+                    response.sendRedirect("Home.jsp");                  
                 }
                 else
                 {

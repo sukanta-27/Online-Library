@@ -64,11 +64,7 @@
                         </td>
                     </tr>
                         
-                </table>
-          
-            
-          <%--<br><br><h2 style="color: #fff;">Sorry! Password did not match.</h2>--%>
-                
+                </table>                            
             </form>
         </div>
     </body>
