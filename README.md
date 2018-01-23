@@ -2,7 +2,7 @@
 This is an Online Library project I developed using Technologies listed below :
 
 **Front-end :** HTML, CSS, Javascript<br>
-**Back-end  :** Java, JSP, MySQL database using XAMPP
+**Back-end  :** Java, JSP, MySQL with XAMPP
 
 A lot of modifications are still needed in this repository.
 
